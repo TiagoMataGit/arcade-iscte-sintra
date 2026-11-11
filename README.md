@@ -11,7 +11,7 @@
 
 | Papel | Nome | Número de Aluno | Utilizador GitHub |
 |---|---|---|---|
-| Aluno 1 | `[Nome Aluno 1]` | `[Número]` | `@TiagoMataGit` |
+| Aluno 1 | `Tiago Mata` | `139709` | `@TiagoMataGit` |
 | Aluno 2 | `[Nome Colega 2]` | `[Preencher]` | `@[utilizador2]` |
 | Aluno 3 | `[Nome Colega 3]` | `[Preencher]` | `@[utilizador3]` |
 
