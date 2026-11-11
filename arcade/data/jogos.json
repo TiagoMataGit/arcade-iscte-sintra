@@ -1,0 +1,30 @@
+[
+  {
+    "id": "adivinha_numero",
+    "nome": "Adivinha o Número",
+    "descricao": "Tenta descobrir o número secreto gerado pelo computador no menor número de tentativas.",
+    "modulo": "jogos.adivinha_numero",
+    "ativo": true
+  },
+  {
+    "id": "pedra_papel_tesoura",
+    "nome": "Pedra, Papel ou Tesoura",
+    "descricao": "Disputa partidas clássicas de Pedra, Papel ou Tesoura contra o computador.",
+    "modulo": "jogos.pedra_papel_tesoura",
+    "ativo": true
+  },
+  {
+    "id": "forca",
+    "nome": "Jogo da Forca",
+    "descricao": "Descobre a palavra secreta letra a letra antes de esgotares o limite de erros.",
+    "modulo": "jogos.forca",
+    "ativo": true
+  },
+  {
+    "id": "jogo_adicional",
+    "nome": "Jogo do Galo (Tic-Tac-Toe)",
+    "descricao": "Jogo adicional da equipa: desafia o computador numa partida tática no tabuleiro 3x3.",
+    "modulo": "jogos.jogo_adicional",
+    "ativo": true
+  }
+]
