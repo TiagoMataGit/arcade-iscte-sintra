@@ -74,13 +74,13 @@ fp-projeto/
 Usem esta checklist para irem marcando o progresso da equipa:
 
 ### Requisitos Funcionais
-- [x] **RF1 - Gestão de Jogadores (Fase 1 - Menus e Dados Básicos):**
-  - [x] Criar novo jogador com username único
-  - [x] Selecionar jogador existente
-  - [x] Consultar dados básicos (username, nome, datas de criação e última utilização)
-  - [x] Mudar de jogador sem fechar a aplicação
-  - [x] Persistência dos jogadores em CSV (`data/jogadores.csv`)
-- [x] **RF2 - Menu Principal e Navegação (Fase 1 - Menus Concluídos):**
+- [ ] **RF1 - Gestão de Jogadores:**
+  - [ ] Criar novo jogador com username único
+  - [ ] Selecionar jogador existente
+  - [ ] Consultar dados básicos (username, nome, datas de criação e última utilização)
+  - [ ] Mudar de jogador sem fechar a aplicação
+  - [ ] Persistência dos jogadores em CSV (`data/jogadores.csv`)
+- [x] **RF2 - Menu Principal e Navegação (Fase 1 - Esqueleto de Menus):**
   - [x] Opções: Jogar, Histórico, Estatísticas, Rankings, Gerir Perfil, Mudar Jogador, Sair
   - [x] Regressar ao menu anterior sem reiniciar
   - [x] Validação de inputs (não crashar com entradas inválidas)
