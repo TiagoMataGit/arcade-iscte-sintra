@@ -12,7 +12,7 @@
 | Papel | Nome | Número de Aluno | Utilizador GitHub |
 |---|---|---|---|
 | Aluno 1 | `Tiago Mata` | `139709` | `@TiagoMataGit` |
-| Aluno 2 | `[Nome Colega 2]` | `[Número]` | `@[utilizador2]` |
+| Aluno 2 | `Alexandre Silva` | `139721` | `@Alesxil` |
 | Aluno 3 | `[Nome Colega 3]` | `[Número]` | `@[utilizador3]` |
 
 > **Nota para a Entrega:**  
